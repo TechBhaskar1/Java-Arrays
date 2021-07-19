@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background:linear-gradient(rgb(12, 36, 250) 0%,rgb(2, 217, 255) 100%);
+}
+.container{
+    margin:150px;
+    background-color:rgb(255, 255, 255);
+    padding: 50px;
+    opacity: 0.7;
+}
+h1{
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+}
+dt{
+    color:rgb(255, 157, 0);
+    font-size: 50px;
+
+}
