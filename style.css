@@ -15,5 +15,7 @@ h1{
 dt{
     color:rgb(255, 157, 0);
     font-size: 50px;
-
+}
+dd{
+    font-size:40px;
 }
